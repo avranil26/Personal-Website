@@ -46,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rmukhop2@asu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:avranil26@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/rmj3197
+  link: https://twitter.com
 - icon: github
   icon_pack: fab
-  link: https://github.com/rmj3197
+  link: https://github.com/avranil26
 - icon: gitlab
   icon_pack: fab
-  link: https://gitlab.com/rmj.3197/
+  link: https://gitlab.com/avranilbasu.online
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-<p style='text-align: justify;'> Hello, Welcome to my page. Currently I am pursuing Masters in Computer Science at Arizona State University, USA. I am an avid reader and I love to read technical blogs. I have keen interest in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Data Mining. Currently looking for an Internship which will provide me with challenging & hands-on experience.</p>
+<p style='text-align: justify;'> Avranil Basu is a Data Scientist at Convergytics Solutions Pvt Ltd, Bangalore. He wants to build data driven intelligent products. When he isn't glued to a computer screen he spends time playing soccer, table tennis, swimming, making memes and planning his next trip :P </p>
 
 
