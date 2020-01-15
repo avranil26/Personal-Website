@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Actively looking for Summer 2020 Internship Opportunities
+role: A Data Scientist with an eye for Meme Situations!
 
 # Organizations/Affiliations
 organizations:
