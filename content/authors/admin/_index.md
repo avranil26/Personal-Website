@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-<p style='text-align: justify;'> Avranil Basu is a Data Scientist at Convergytics Solutions Pvt Ltd, Bangalore. He wants to build data driven intelligent products. When he isn't glued to a computer screen he spends time playing soccer, table tennis, swimming, making memes and planning his next trip :P </p>
+<p style='text-align: justify;'> Avranil Basu is a Data Scientist at Convergytics Solutions Pvt Ltd, Bangalore. He wants to build data driven intelligent products. When he isn't glued to a computer screen he spends time playing soccer, table tennis, swimming, making memes and planning his next trip.</p>
 
 
