@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Artificial Intelligence
@@ -32,10 +32,7 @@ interests:
 
 education:
   courses:
-  - course: Master of Science in Computer Science
-    institution: Ira A. Fulton Schools of Engineering, Arizona State University, Tempe, Arizona, USA
-    year: Aug 2019 - Present
-  - course: Bachelor of Technology in Computer Science and Engineering
+  - course: Bachelor of Technology in Information Technology
     institution: Government College of Engineering and Ceramic Technology, Kolkata, India
     year: Aug 2015 - May 2019
 
