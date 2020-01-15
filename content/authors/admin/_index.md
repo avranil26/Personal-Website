@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Raktim Mukhopadhyay
+name: Avranil Basu
 
 # Username (this should match the folder name)
 authors:
