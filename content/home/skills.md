@@ -58,24 +58,6 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "html5"
-  icon_pack = "fab"
-  name = "HTML"
-  description = ""
-
-[[feature]]
-  icon = "js"
-  icon_pack = "fab"
-  name = "JavaScript"
-  description = ""
-
-[[feature]]
-  icon = "css3"
-  icon_pack = "fab"
-  name = "CSS"
-  description = ""
-
-[[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "Git"
@@ -87,12 +69,6 @@ subtitle = ""
   name = "Tableau"
   description = ""
 
-
-[[feature]]
-  icon = "dyalog"
-  icon_pack = "fab"
-  name = "D3js"
-  description = ""
 
 [[feature]]
   icon = "chart-line"
