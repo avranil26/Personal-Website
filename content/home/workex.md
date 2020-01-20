@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-06-01"
   date_end = ""
-  description = "<p style='text-align: justify;'>Working on a Time Series Forecasting Project for a leading IndianConsumer Goods Company </p>"
+  description = "<p style='text-align: justify;'>Working on a Time Series Forecasting Project for a leading India Consumer Goods Company </p>"
 
 
 [[experience]]
