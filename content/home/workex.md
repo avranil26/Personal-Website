@@ -38,23 +38,4 @@ date_format = "Jan 2006"
 - Worked on a price optimization project for a leading Indian consumergoods company by implementing choice modelling on sales data.
 - As an individual contributor worked on a demand forecasting project toreduce inventory cost & stock out for one of the top Indian JewelleryChain. Developed an end to end pipeline from data ingestion to modelbuilding for 13000 SKU’s using ​ fbprophet​ library and ​ hyperopt​ foroptimization.
   """
-[[experience]]
-  title = "Member of College Governing Council"
-  company = "Government College of Engineering and Ceramic Technology, India"
-  company_url = ""
-  location = ""
-  date_start = "2017-11-01"
-  date_end = "2019-01-01"
-  description = ""
-
-[[experience]]
-  title = "Representative of Dept. of Computer Science and Engineering in Career and Skill Development Committee"
-  company = "Government College of Engineering and Ceramic Technology"
-  company_url = ""
-  location = ""
-  date_start = "2017-07-01"
-  date_end = "2019-05-23"
-  description = ""
-
-
 +++
