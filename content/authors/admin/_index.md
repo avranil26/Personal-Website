@@ -22,12 +22,10 @@ bio:
 
 interests:
 - Artificial Intelligence
-- Natural Language Processing
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Data Mining and Information Retrieval
-- Security and Networks
+- Data Mining
 
 
 education:
