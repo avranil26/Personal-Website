@@ -18,28 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Volunteer"
-  company = "National Service Scheme (NSS) India"
+  title = "Data Scientist"
+  company = "Convergytics Soln Pvt. Ltd, ​Bangalore"
   company_url = ""
   location = ""
-  date_start = "2016-05-01"
-  date_end = "2019-02-23"
-  description = "<p style='text-align: justify;'>Represented Government College of Engineering and Ceramic Technology at Regional Interaction Program with Rajyavardhan Singh Rathore, Hon'ble Minister of Sports and Youth Affairs, India </p>"
+  date_start = "2018-06-01"
+  date_end = ""
+  description = "<p style='text-align: justify;'>Working on a Time Series Forecasting Project for a leading IndianConsumer Goods Company </p>"
 
 
 [[experience]]
-  title = "Secretary of Tech Club"
-  company = "Government College of Engineering and Ceramic Technology, India"
+  title = "Data Scientist Intern"
+  company = "Convergytics Soln Pvt. Ltd, ​Bangalore"
   company_url = ""
   location = ""
-  date_start = "2017-10-01"
-  date_end = "2018-12-31"
+  date_start = "2018-10-01"
+  date_end = "2019-03-31"
   description = """
-- Actively involved in corporate communications, sponsorship, publicity, alumni
-relations and event management of Technological fest - KarmaTek.
-- Acted as the Single Point of Contact (SPOC) for technical fest -KarmaTek - for over 80 colleges in and
-around Kolkata and increased the participation by 88%.
-- Played a pivotal role in organizing workshops and seminars for technical development of students. 
+- Worked on a price optimization project for a leading Indian consumergoods company by implementing choice modelling on sales data.
+- As an individual contributor worked on a demand forecasting project toreduce inventory cost & stock out for one of the top Indian JewelleryChain. Developed an end to end pipeline from data ingestion to modelbuilding for 13000 SKU’s using ​ fbprophet​ library and ​ hyperopt​ foroptimization.
   """
 [[experience]]
   title = "Member of College Governing Council"
