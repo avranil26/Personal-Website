@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: A Data Scientist with an eye for Meme Situations!
+role: Data scientist and enthusiast who is continuously trying to learn new technologies that makes life easier.
 
 # Organizations/Affiliations
 organizations:
