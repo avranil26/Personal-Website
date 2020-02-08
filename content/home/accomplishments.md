@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = ""
-  description = """<p style='text-align: justify;'></p>"""
+  description = """<p style='text-align: justify;'>In this project we aim to identify the Pareto SKU’s among 80000 unique SKU’s of Studded and Plain Gold Jewellery and implement demand forecasting to predict how much of a specific product customer will want to purchase during the next 3 months. forecast sales for upcoming 3 months horizon at a weekly level. The main objective of the project is to help the business understand how much stock to have on hand at a given time and thus avoid cases of out-of-stock – which can push customers to seek solutions from their competitors. Also, it helped the business to cut cost by reducing the amount of capital they might have tied up in unnecessary inventory and thus only investing money in more stock when needed. Simultaneously the business can easily check in before the period’s over to see if they are on target to hit the predicted sales and can amp up marketing and advertising accordingly.</p>"""
 
 [[item]]
   organization = ""
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-11-01"
   date_end = ""
-  description = """<p style='text-align: justify;'></p>"""
+  description = """<p style='text-align: justify;'>In this project we analyse the transactional data of an Eyewear Brand that lists purchases made by 26M customers. One goal of this project is to best describe the variation in the different types of customer that an Eyewear Brand interacts withs. Doing so would equip the brand with insights into how to best structure there marketing campaigns. Also, they would like to introduce new product. To optimize campaign costs and customers’ comfort they can carefully select customers that would be contacted in the campaign. </p>"""
 
 [[item]]
   organization = "Globsyn Finishing School"
