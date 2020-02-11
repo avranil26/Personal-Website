@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-08-01"
   date_end = "2019-10-15"
-  description = """<p style='text-align: justify;'></p>"""
+  description = """<p style='text-align: justify;'>The project focuses on helping the business to set optimized pricing for every SKU and identify products that could sell at higher prices and products that should be priced lower. It assists business in understanding the buying pattern of the customers and their preferences for pricing as well as what they’re willing to pay. Setting an optimal price point will both maximise the revenue by capturing lost sales and make the customers happy.</p>"""
   
 [[item]]
   organization = ""
@@ -37,7 +37,8 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-01"
   date_end = "2019-11-21"
-  description = ""
+  description = """<p style="'text-align: justify;">This project allows a multi-brand lifestyle conglomerate to assess the new location to set up a store and gauge the business potential. Beforehand the catchment investigation was done by Business Development Managers generally dependent on instinct and area information. Analysing consumer purchases and the loyalty customer base across various channels(brands) can reveal valuable insights that can help the brand in choosing the right location while setting up a business. 
+The model designed for catchment analysis was deployed using AWS Lambda and integrated with Tableau to help the company understand in real time whether a location is going to be successful.</p>"""
 
 [[item]]
   organization = ""
@@ -47,7 +48,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = ""
-  description = """<p style='text-align: justify;'>In this project we aim to identify the Pareto SKU’s among 80000 unique SKU’s of Studded and Plain Gold Jewellery and implement demand forecasting to predict how much of a specific product customer will want to purchase during the next 3 months. forecast sales for upcoming 3 months horizon at a weekly level. The main objective of the project is to help the business understand how much stock to have on hand at a given time and thus avoid cases of out-of-stock – which can push customers to seek solutions from their competitors. Also, it helped the business to cut cost by reducing the amount of capital they might have tied up in unnecessary inventory and thus only investing money in more stock when needed. Simultaneously the business can easily check in before the period’s over to see if they are on target to hit the predicted sales and can amp up marketing and advertising accordingly.</p>"""
+  description = """<p style='text-align: justify;'>In this project we aim to identify the Pareto SKU’s among 80000 unique SKU’s of Studded and Plain Gold Jewellery and implement demand forecasting to predict how much of a specific product customer will want to purchase during the next 3 months. The main objective of the project is to help the business understand how much stock to have on hand at a given time and thus avoid cases of out-of-stock – which can push customers to seek solutions from their competitors. Also, it helped the business to cut cost by reducing the amount of capital they might have tied up in unnecessary inventory and thus only investing money in more stock when needed. Simultaneously the business can easily check in before the period’s over to see if they are on target to hit the predicted sales and can amp up marketing and advertising accordingly.</p>"""
 
 [[item]]
   organization = ""
@@ -57,7 +58,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-11-01"
   date_end = ""
-  description = """<p style='text-align: justify;'>In this project we analyse the transactional data of an Eyewear Brand that lists purchases made by 26M customers. One goal of this project is to best describe the variation in the different types of customer that an Eyewear Brand interacts withs. Doing so would equip the brand with insights into how to best structure there marketing campaigns. Also, they would like to introduce new product. To optimize campaign costs and customers’ comfort they can carefully select customers that would be contacted in the campaign. </p>"""
+  description = """<p style='text-align: justify;'>In this project we analyse the transactional data of an Eyewear Brand that lists purchases made by 26M customers. One goal of this project is to best describe the variation in the different types of customer that an Eyewear Brand interacts with. Doing so would equip the brand with insights into how to best structure their marketing campaigns. Also, they would like to introduce new product. To optimize campaign costs and customers’ comfort they can carefully select customers that would be contacted in the campaign. </p>"""
 
 [[item]]
   organization = "Globsyn Finishing School"
